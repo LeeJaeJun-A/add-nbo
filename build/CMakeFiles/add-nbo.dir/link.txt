@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/add-nbo.dir/main.cpp.o" -o add-nbo 
