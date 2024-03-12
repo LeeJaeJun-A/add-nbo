@@ -14,12 +14,12 @@ int main(int argc, char **argv){
 	FILE *f2 = fopen(argv[2], "rb");
 	
 	if(f1 == NULL){
-		perror("File 1 occurs error: );
+		perror("File 1 occurs error: ");
 		exit(1);
 	}
 
 	if(f2 ==NULL){
-		perror("File 2 occurs error: );
+		perror("File 2 occurs error: ");
 		exit(1);
 	}
 	
